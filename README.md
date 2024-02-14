@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate programmer. I've also dabbled in 
 ![Mojo](https://img.shields.io/badge/-Mojo-green)
 ![C++](https://img.shields.io/badge/-C++-purple)
 ![Java](https://img.shields.io/badge/-Java-blueviolet)
-![C#](https://img.shields.io/badge/-C#-9cf)
+![C#](https://img.shields.io/badge/-CS-9cf)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
