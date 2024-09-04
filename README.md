@@ -2,7 +2,7 @@
 
 ![AI&ML Student](https://img.shields.io/badge/AI&ML%20Student-blue)
 
-Welcome to my GitHub profile! I'm a passionate programmer. I've also dabbled in Python, Mojo C++, Java, C#, HTML, CSS, JavaScript. Currently, my focus has shifted towards Game development in Unity.
+Welcome to my GitHub profile! I'm a passionate programmer. I've also dabbled in Python, Mojo C++, Java, HTML, CSS, JavaScript.
 
 ## 🔧 Technologies and Tools
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate programmer. I've also dabbled in 
 
 ## 🌱 Learning and Hobby
 
-I'm a competitive programmer and an AI & ML student who loves learning and exploring new technologies. Currently, I'm working on a mod for Red Dead Redemption 2, one of the most immersive and realistic open-world games ever made.
+I'm a competitive programmer and an AI & ML student who loves learning and exploring new technologies.
 
 ## 📫 Let's Connect
 
